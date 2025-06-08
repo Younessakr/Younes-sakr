@@ -1,0 +1,250 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über Mich",
+    "experience": "Erfahrung",
+    "education": "Ausbildung",
+    "skills": "Fähigkeiten",
+    "projects": "Projekte",
+    "contact": "Kontakt",
+    "hero": "Startseite"
+  },
+  "hero": {
+    "title": "IT Support Specialist",
+    "description": "Leidenschaftlich in der Lösung technischer Probleme und Verbesserung von IT-Systemen. Spezialist für Wartung, Benutzerunterstützung und Netzwerkadministration.",
+    "buttons": {
+      "learnMore": "Mehr erfahren",
+      "contact": "Kontaktieren"
+    }
+  },
+  "about": {
+    "title": "Über Mich",
+    "description": "Ich bin Younes Sakr, ein IT-Professional mit Leidenschaft für Technologie, spezialisiert auf technischen Support, Computerwartung und Netzwerkadministration. Mein Hintergrund verbindet solides technisches Wissen mit ergänzender Managementausbildung.",
+    "objective": "Mein Ziel ist es, zur Optimierung von IT-Systemen beizutragen und dabei eine reibungslose und sichere Benutzererfahrung zu gewährleisten. Ich engagiere mich für die effiziente Lösung technischer Probleme und die kontinuierliche Verbesserung der IT-Infrastruktur.",
+    "info": {
+      "title": "Informationen",
+      "location": "Hay Mohammadi Agadir, Marokko",
+      "email": "younessakr01@gmail.com",
+      "phone": "+212671130224"
+    },
+    "languages": {
+      "title": "Sprachkenntnisse",
+      "native": "Muttersprache",
+      "proficient": "Fließend",
+      "intermediate": "Mittelstufe"
+    }
+  },
+  "experience": {
+    "title": "Berufserfahrung",
+    "present": "Heute",
+    "exp1": {
+      "title": "IT Support Specialist",
+      "company": "ODIF Maroc",
+      "period": "Mai 2025 - Heute",
+      "responsibilities": [
+        "Hardware- und Software-Ausfälle diagnostizieren und beheben",
+        "Benutzer remote oder vor Ort unterstützen",
+        "Netzwerkleistung überwachen und Verbindungsprobleme lösen",
+        "Kollaborative Tools konfigurieren"
+      ]
+    },
+    "exp2": {
+      "title": "IT Support Specialist",
+      "company": "Groupe FIKRI CASH",
+      "period": "Januar 2024 - Januar 2025",
+      "responsibilities": [
+        "Incident-Management und -Lösung",
+        "Benutzer remote oder vor Ort unterstützen",
+        "Systemadministration",
+        "Wartung, Administration und Sicherung von IT-Geräten",
+        "Benutzer in IT-Best-Practices schulen",
+        "IT-Sicherheitsmanagement"
+      ]
+    },
+    "exp3": {
+      "title": "Praktikum - IT-Netzwerkservice",
+      "company": "AYOUR CONCEPT",
+      "period": "2023 (7 Monate)",
+      "responsibilities": [
+        "Installation, Test und Update von IT-Geräten",
+        "Drucker-Diagnose und -Reinigung",
+        "Wartung, Administration und Sicherung von IT-Geräten",
+        "Incident-Lösung",
+        "Installation und Konfiguration von Zeiterfassungsgeräten, Zugangskontrollen und Telefonanlagen",
+        "Datenwiederherstellung und Software-Installation"
+      ]
+    },
+    "exp4": {
+      "title": "Dateneingabe-Operator",
+      "company": "HARMONY TECHNOLOGY",
+      "period": "2023 (4 Monate)",
+      "responsibilities": [
+        "Dateneingabe in die Datenbank",
+        "Datenklassifizierung und -organisation",
+        "Diebstahlsicherung"
+      ]
+    },
+    "exp5": {
+      "title": "Praktikum - IT-Service",
+      "company": "AGANET INFO",
+      "period": "2020 (1 Monat)",
+      "responsibilities": [
+        "Installation und Update von IT-Geräten (Computer und Software)",
+        "Hardware- und Software-Probleme lösen",
+        "Konfiguration von Routern, Access Points",
+        "Datensicherung"
+      ]
+    }
+  },
+  "education": {
+    "title": "Ausbildung & Zertifizierungen",
+    "degrees": "Abschlüsse",
+    "certifications": "Zertifizierungen",
+    "edu1": {
+      "degree": "Bachelor-Abschluss in Grundstudien der Wirtschafts- und Managementwissenschaften, Management-Option",
+      "institution": "Fakultät für Rechts-, Wirtschafts- und Sozialwissenschaften Agadir"
+    },
+    "edu2": {
+      "degree": "Diplom als Fachtechniker für Wartung von IT-Systemen und Netzwerken",
+      "institution": "Spezialisiertes Institut für Angewandte Technologie ISTA Taddart Agadir"
+    },
+    "edu3": {
+      "degree": "Abitur in Lebens- und Erdwissenschaften",
+      "institution": "Anoual Qualifizierendes Gymnasium Agadir"
+    },
+    "certificationsList": [
+      {
+        "title": "Microsoft Office Excel, Word und Word Expert 2016",
+        "issuer": "MICROSOFT",
+        "date": "2021"
+      },
+      {
+        "title": "Career Essentials in System Administration",
+        "issuer": "MICROSOFT und LINKEDIN",
+        "date": "Dez 2024"
+      },
+      {
+        "title": "Windows Server 2022: Installation and Configuration",
+        "issuer": "LINKEDIN",
+        "date": "Dez 2024"
+      },
+      {
+        "title": "IT Help Desk For Beginners",
+        "issuer": "LINKEDIN",
+        "date": "Jan 2025"
+      },
+      {
+        "title": "Learning Python",
+        "issuer": "LINKEDIN",
+        "date": "Jan 2025"
+      },
+      {
+        "title": "React Js: Create a Web Application",
+        "issuer": "ODC AGADIR",
+        "date": "Mär 2025"
+      },
+      {
+        "title": "Boost web development workflows with AI",
+        "issuer": "ODC AGADIR",
+        "date": "Apr 2025"
+      },
+      {
+        "title": "E-commerce Design A to Z",
+        "issuer": "ODC AGADIR",
+        "date": "Apr 2025"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Fähigkeiten",
+    "technicalTitle": "Technische Fähigkeiten",
+    "softwareTitle": "Software-Kenntnisse",
+    "personalTitle": "Persönliche Fähigkeiten",
+    "technicalSkills": [
+      { "name": "Linux" },
+      { "name": "Windows Server" },
+      { "name": "Cisco" },
+      { "name": "JavaScript (JS)" },
+      { "name": "React Js" },
+      { "name": "Python" },
+      { "name": "HTML" },
+      { "name": "CSS" }
+    ],
+    "softwareSkills": [
+      { "name": "Microsoft Office (Excel, Word, Outlook)" },
+      { "name": "Ticketing Systems" }
+    ],
+    "personalSkills": [
+      { "name": "Teamarbeit" },
+      { "name": "Problemlösung" },
+      { "name": "Management" },
+      { "name": "Arbeiten unter Druck" }
+    ]
+  },
+  "projects": {
+    "title": "Projekte",
+    "viewProject": "Projekt ansehen",
+    "before": "Vorher",
+    "after": "Nachher",
+    "improvements": "Verbesserungen",
+    "proj1": {
+      "title": "Netzwerk-Infrastruktur Optimierung",
+      "description": "Komplette Überholung der Unternehmens-Netzwerkinfrastruktur, einschließlich Kabelmanagement, Netzwerktopologie-Redesign und Leistungsoptimierung.",
+      "technologies": ["Cisco", "Netzwerkmanagement", "Kabelmanagement"],
+      "improvements": [
+        "Netzwerklatenz um 40% reduziert",
+        "Verbesserte Kabelorganisation und Zugänglichkeit",
+        "Verstärkte Netzwerksicherheitsprotokolle",
+        "Optimierte Wartungsverfahren"
+      ]
+    },
+    "proj2": {
+      "title": "Serverraum-Modernisierung",
+      "description": "Umfassendes Serverraum-Upgrade mit Fokus auf Kühlungseffizienz, Energiemanagement und Geräteorganisation.",
+      "technologies": ["Servermanagement", "Kühlungssysteme", "Energiemanagement"],
+      "improvements": [
+        "Energieverbrauch um 30% reduziert",
+        "Verbesserte Kühlungseffizienz",
+        "Bessere Raumnutzung",
+        "Erweiterte Überwachungssysteme"
+      ]
+    },
+    "proj3": {
+      "title": "Arbeitsplatz-Setup Optimierung",
+      "description": "Neugestaltung der Mitarbeiter-Arbeitsplätze zur Verbesserung von Ergonomie, Kabelmanagement und Gesamteffizienz.",
+      "technologies": ["Ergonomie", "Kabelmanagement", "Arbeitsplatzgestaltung"],
+      "improvements": [
+        "Verbesserte Arbeitsplatzorganisation",
+        "Optimierte Ergonomie",
+        "Verbessertes Kabelmanagement",
+        "Gesteigerte Produktivität"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "info": {
+      "title": "Kontaktinformationen",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "location": "Standort"
+    },
+    "social": {
+      "title": "Soziale Netzwerke"
+    },
+    "form": {
+      "title": "Nachricht senden",
+      "name": "Name",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "send": "Senden"
+    }
+  },
+  "footer": {
+    "madeWith": "Erstellt mit",
+    "and": "und",
+    "passion": "Leidenschaft",
+    "rights": "Alle Rechte vorbehalten"
+  }
+}

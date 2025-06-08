@@ -1,0 +1,250 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "experience": "Expérience",
+    "education": "Formation",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "contact": "Contact",
+    "hero": "Accueil"
+  },
+  "hero": {
+    "title": "IT Support Specialist",
+    "description": "Passionné par la résolution de problèmes techniques et l'amélioration des systèmes informatiques. Spécialiste en maintenance, support utilisateur et administration réseau.",
+    "buttons": {
+      "learnMore": "En savoir plus",
+      "contact": "Me contacter"
+    }
+  },
+  "about": {
+    "title": "À Propos de Moi",
+    "description": "Je suis Younes Sakr, un professionnel passionné par l'informatique et les technologies, spécialisé dans le support technique, la maintenance informatique et l'administration réseau. Mon parcours combine des connaissances techniques solides avec une formation complémentaire en gestion.",
+    "objective": "Mon objectif est de contribuer à l'optimisation des systèmes informatiques tout en garantissant une expérience utilisateur fluide et sécurisée. Je m'engage à résoudre efficacement les problèmes techniques et à améliorer continuellement les infrastructures IT.",
+    "info": {
+      "title": "Informations",
+      "location": "Hay Mohammadi Agadir, Maroc",
+      "email": "younessakr01@gmail.com",
+      "phone": "+212671130224"
+    },
+    "languages": {
+      "title": "Compétences Linguistiques",
+      "native": "Langue Maternelle",
+      "proficient": "Courant",
+      "intermediate": "Intermédiaire"
+    }
+  },
+  "experience": {
+    "title": "Expérience Professionnelle",
+    "present": "Présent",
+    "exp1": {
+      "title": "IT Support Specialist",
+      "company": "ODIF Maroc",
+      "period": "Mai 2025 - Présent",
+      "responsibilities": [
+        "Diagnostiquer et résoudre les pannes matérielles et logicielles",
+        "Assister les utilisateurs à distance ou sur site",
+        "Surveiller les performances du réseau et résoudre les problèmes de connectivité",
+        "Configurer les outils collaboratifs"
+      ]
+    },
+    "exp2": {
+      "title": "IT Support Specialist",
+      "company": "Groupe FIKRI CASH",
+      "period": "Janvier 2024 - Janvier 2025",
+      "responsibilities": [
+        "Gestion et résolution des incidents",
+        "Assister les utilisateurs à distance ou sur site",
+        "Administration système",
+        "Maintenance, administration et sécurisation des équipements IT",
+        "Former les utilisateurs sur les bonnes pratiques informatiques",
+        "Management de la sécurité informatique"
+      ]
+    },
+    "exp3": {
+      "title": "Stage - Service Réseau Informatique",
+      "company": "AYOUR CONCEPT",
+      "period": "2023 (7 mois)",
+      "responsibilities": [
+        "Installation, essai et mise à jour des équipements informatiques",
+        "Diagnostic et nettoyage des imprimantes",
+        "Maintenance, administration et sécurisation des équipements IT",
+        "Résolution des incidents",
+        "Installation et configuration des pointeuses, contrôleurs d'accès et standards téléphoniques",
+        "Récupération des données et installation des logiciels"
+      ]
+    },
+    "exp4": {
+      "title": "Opérateur de Saisie",
+      "company": "HARMONY TECHNOLOGY",
+      "period": "2023 (4 mois)",
+      "responsibilities": [
+        "Saisie de données dans la base de données",
+        "Classement et organisation des données",
+        "Étiquette antivol"
+      ]
+    },
+    "exp5": {
+      "title": "Stage - Service Informatique",
+      "company": "AGANET INFO",
+      "period": "2020 (1 mois)",
+      "responsibilities": [
+        "Installation et mise à jour des équipements informatiques (ordinateurs et logiciels)",
+        "Résoudre les problèmes matériels et logiciels",
+        "Configuration des routeurs, points d'accès",
+        "Sauvegarde des données"
+      ]
+    }
+  },
+  "education": {
+    "title": "Formation & Certifications",
+    "degrees": "Diplômes",
+    "certifications": "Certifications",
+    "edu1": {
+      "degree": "Licence d'Études Fondamentales en Sciences Économiques et Gestion, option Gestion",
+      "institution": "Faculté des Sciences Juridiques, Économiques et Sociales d'Agadir"
+    },
+    "edu2": {
+      "degree": "Diplôme Technicien en Maintenance et Support Informatique et Réseaux",
+      "institution": "Institut Spécialisé de Technologie Appliquée ISTA Taddart Agadir"
+    },
+    "edu3": {
+      "degree": "Baccalauréat en Sciences de la Vie et de la Terre",
+      "institution": "Lycée Qualifiant Anoual Agadir"
+    },
+    "certificationsList": [
+      {
+        "title": "Microsoft Office Excel, Word et Word Expert 2016",
+        "issuer": "MICROSOFT",
+        "date": "2021"
+      },
+      {
+        "title": "Career Essentials in System Administration",
+        "issuer": "MICROSOFT et LINKEDIN",
+        "date": "Déc 2024"
+      },
+      {
+        "title": "Windows Server 2022: Installation and Configuration",
+        "issuer": "LINKEDIN",
+        "date": "Déc 2024"
+      },
+      {
+        "title": "IT Help Desk For Beginners",
+        "issuer": "LINKEDIN",
+        "date": "Jan 2025"
+      },
+      {
+        "title": "Learning Python",
+        "issuer": "LINKEDIN",
+        "date": "Jan 2025"
+      },
+      {
+        "title": "React Js: Create a Web Application",
+        "issuer": "ODC AGADIR",
+        "date": "Mar 2025"
+      },
+      {
+        "title": "Boost web development workflows with AI",
+        "issuer": "ODC AGADIR",
+        "date": "Avr 2025"
+      },
+      {
+        "title": "E-commerce Design A to Z",
+        "issuer": "ODC AGADIR",
+        "date": "Avr 2025"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Compétences",
+    "technicalTitle": "Compétences Techniques",
+    "softwareTitle": "Compétences Logicielles",
+    "personalTitle": "Compétences Personnelles",
+    "technicalSkills": [
+      { "name": "Linux" },
+      { "name": "Windows Server" },
+      { "name": "Cisco" },
+      { "name": "JavaScript (JS)" },
+      { "name": "React Js" },
+      { "name": "Python" },
+      { "name": "HTML" },
+      { "name": "CSS" }
+    ],
+    "softwareSkills": [
+      { "name": "Microsoft Office (Excel, Word, Outlook)" },
+      { "name": "Ticketing Systems" }
+    ],
+    "personalSkills": [
+      { "name": "Travail en équipe" },
+      { "name": "Résolution de problèmes" },
+      { "name": "Management" },
+      { "name": "Travail sous pression" }
+    ]
+  },
+  "projects": {
+    "title": "Projets",
+    "viewProject": "Voir le projet",
+    "before": "Avant",
+    "after": "Après",
+    "improvements": "Améliorations",
+    "proj1": {
+      "title": "Optimisation de l'Infrastructure Réseau",
+      "description": "Refonte complète de l'infrastructure réseau de l'entreprise, incluant la gestion des câbles, la refonte de la topologie réseau et l'optimisation des performances.",
+      "technologies": ["Cisco", "Gestion Réseau", "Gestion des Câbles"],
+      "improvements": [
+        "Réduction de la latence réseau de 40%",
+        "Amélioration de l'organisation et de l'accessibilité des câbles",
+        "Renforcement des protocoles de sécurité réseau",
+        "Optimisation des procédures de maintenance"
+      ]
+    },
+    "proj2": {
+      "title": "Modernisation de la Salle Serveur",
+      "description": "Mise à niveau complète de la salle serveur axée sur l'efficacité du refroidissement, la gestion de l'énergie et l'organisation des équipements.",
+      "technologies": ["Gestion Serveur", "Systèmes de Refroidissement", "Gestion Énergétique"],
+      "improvements": [
+        "Réduction de la consommation d'énergie de 30%",
+        "Amélioration de l'efficacité du refroidissement",
+        "Meilleure utilisation de l'espace",
+        "Amélioration des systèmes de surveillance"
+      ]
+    },
+    "proj3": {
+      "title": "Optimisation des Postes de Travail",
+      "description": "Réaménagement des postes de travail des employés pour améliorer l'ergonomie, la gestion des câbles et l'efficacité globale.",
+      "technologies": ["Ergonomie", "Gestion des Câbles", "Design d'Espace de Travail"],
+      "improvements": [
+        "Amélioration de l'organisation de l'espace de travail",
+        "Optimisation de l'ergonomie",
+        "Meilleure gestion des câbles",
+        "Augmentation de la productivité"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Me Contacter",
+    "info": {
+      "title": "Coordonnées",
+      "email": "Email",
+      "phone": "Téléphone",
+      "location": "Localisation"
+    },
+    "social": {
+      "title": "Réseaux Sociaux"
+    },
+    "form": {
+      "title": "Envoyez-moi un message",
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer"
+    }
+  },
+  "footer": {
+    "madeWith": "Fait avec",
+    "and": "et",
+    "passion": "passion",
+    "rights": "Tous droits réservés"
+  }
+}
