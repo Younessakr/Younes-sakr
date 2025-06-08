@@ -15,7 +15,7 @@ export const Hero = () => {
           <div className="animate-fade-in mb-8">
             <div className="w-64 h-64 mx-auto mb-8 rounded-full overflow-hidden shadow-xl">
               <img
-                src="/img.jpg"
+                src="img.jpg"
                 alt="Younes Sakr"
                 className="w-full h-full object-cover"
               />
